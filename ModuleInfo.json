@@ -1,5 +1,6 @@
 {
   "Name": "My Syati Module",
   "Author": "YourNameHere",
-  "Description": "My Syati Module is awesome!"
+  "Description": "My Syati Module is awesome!",
+  "SupportedGames": [ "SB4" ]
 }
